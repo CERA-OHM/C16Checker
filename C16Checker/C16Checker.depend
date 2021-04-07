@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1537791441 source:d:\codeblocks\c16checker\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
